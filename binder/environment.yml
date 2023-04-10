@@ -1,0 +1,7 @@
+name: replication
+channels:
+    - conda-forge
+dependencies: 
+    - numpy
+    - pip:
+        - seqfold
